@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+header {
+    background-image: url(WhatsApp-Image-2024-06-10-at-1.49.32-PM.jpeg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;   
+}
+
+header .bein {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+}
+
+header .hul select {
+    background-color: rgb(79, 30, 124);
+    padding: 10px;
+    color: white;
+    border: 5px solid;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+
+}
+
+header button {
+    background-color: rgb(98, 47, 144);
+    padding: 10px;
+    color: white;
+    border: 4px solid;
+    border-radius: 10px;
+    border: 5px solid;
+    border: none;
+    outline: none;
+   
+}
+
+section .po h1 {
+    color: rgb(206, 206, 206);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10;
+    padding: 20px;
+    width: 50%;
+    
+}
+
+section .po {
+    
+    
+    align-items: center;
+    width: 70%;
+    margin: auto;
+    margin: 190px 400px;
+    
+}
+
+
+section button {
+    background-color: rgb(98, 47, 144);
+    padding: 10px;
+    color: white;
+    border: 4px solid;
+    border-radius: 10px;
+    border: 5px solid;
+    border: none;
+    outline: none;
+
+}
+
+section input {
+    border: 4px solid;
+    border-radius: 10px;
+    border: 5px solid;
+    border: none;
+    outline: none;
+}
+
+section img {
+    height: 100vh;
+    width: 50%;
+    left: 60%;
+    top: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+
+    
+}
+
+
+    
+
+
+section {
+    background-color: black;
+    color: white;
+    border-bottom: 2px solid white ;   
+    border-top: 2px solid white ;   
+
+
+ 
+  
+   
+
+}
+
+ 
